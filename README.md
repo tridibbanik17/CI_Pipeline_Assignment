@@ -1,6 +1,4 @@
 <div align="center">
-
-
 <h3 align="center">Quiz Command-Line Utility</h3>
 
   <p align="center">
